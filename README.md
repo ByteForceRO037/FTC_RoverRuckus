@@ -2,7 +2,7 @@
 
 # ByteForce RO037 
 
-![ByteForce Logo](https://i.imgur.com/FbV3g0b.png)
+![ByteForce Logo](https://i.imgur.com/BIDrOYV.png)
 
 The ByteForce Galaţi robotics team. A group of young people interested in STEM and technology education who want to have fun 
 learning and inventing!
